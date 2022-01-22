@@ -5,7 +5,6 @@
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <h1>Hello World</h1>
   <virtual-key-board title="还不够完善" />
 </template>
 
